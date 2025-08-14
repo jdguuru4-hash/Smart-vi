@@ -16,5 +16,23 @@
         "key": "5ZAZ9T",
         "expirydate": "14-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7fbe23548b988c20",
+        "key": "NEW-G7H2W1",
+        "expirydate": "14-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "09f17371dc838469",
+        "key": "NEW-N4K5X8",
+        "expirydate": "14-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "7ebba7113346e389",
+        "key": "AZIWG729T",
+        "expirydate": "14-09-2025",
+        "Allowoffline": false
     }
 ]
