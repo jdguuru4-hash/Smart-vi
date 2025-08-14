@@ -34,5 +34,11 @@
         "key": "AZIWG729T",
         "expirydate": "14-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e907999891d7dd3c",
+        "key": "Verscode92",
+        "expirydate": "14-09-2025",
+        "Allowoffline": false
     }
 ]
