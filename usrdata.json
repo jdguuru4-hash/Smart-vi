@@ -58,5 +58,11 @@
         "key": "JKAO",
         "expirydate": "14-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0e7c2c9774153e8b",
+        "key": "KAOWY31",
+        "expirydate": "14-09-2025",
+        "Allowoffline": false
     }
 ]
