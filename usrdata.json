@@ -70,5 +70,11 @@
         "key": "LWPIXV72",
         "expirydate": "14-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6514785f1a57425a",
+        "key": "LA2JS6JA",
+        "expirydate": "14-09-2025",
+        "Allowoffline": false
     }
 ]
