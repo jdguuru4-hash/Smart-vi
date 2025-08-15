@@ -52,5 +52,11 @@
         "key": "KSJSI348",
         "expirydate": "14-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "13708f7a27c36d83",
+        "key": "JKAO",
+        "expirydate": "14-09-2025",
+        "Allowoffline": false
     }
 ]
