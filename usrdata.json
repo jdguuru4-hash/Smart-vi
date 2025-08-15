@@ -40,5 +40,17 @@
         "key": "Verscode92",
         "expirydate": "14-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "cbd77055bedd8196",
+        "key": "JSOSHJSG2",
+        "expirydate": "15-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "4b6b2e7716a0ba40",
+        "key": "KSJSI348",
+        "expirydate": "14-09-2025",
+        "Allowoffline": false
     }
 ]
