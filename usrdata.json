@@ -97,8 +97,14 @@
     },
     {
         "device_id": "36794eb582086706",
-        "key": "DWV952",
+        "key": "Deleted 4",
         "expirydate": "16-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "4b06c09631f1110f",
+        "key": "MU31RS",
+        "expirydate": "16-09-2025",
+        "Allowoffline": false
+    }
 ]
