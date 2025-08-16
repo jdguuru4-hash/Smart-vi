@@ -76,5 +76,17 @@
         "key": "LA2JS6JA",
         "expirydate": "14-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1efe8a484df37460",
+        "key": "QCBP726",
+        "expirydate": "15-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "bb92f6869bb647af",
+        "key": "KAGH7JA",
+        "expirydate": "15-09-2025",
+        "Allowoffline": false
     }
 ]
