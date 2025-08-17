@@ -106,5 +106,11 @@
         "key": "MU31RS",
         "expirydate": "16-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "aacaae4cb06ce98e",
+        "key": "JAOQVBZ71",
+        "expirydate": "16-09-2025",
+        "Allowoffline": false
     }
 ]
