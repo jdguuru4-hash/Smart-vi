@@ -160,5 +160,11 @@
         "key": "AHKQ",
         "expirydate": "14-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e39dd3275352ce97",
+        "key": "AHHsKQ",
+        "expirydate": "14-09-2025",
+        "Allowoffline": false
     }
 ]
