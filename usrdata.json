@@ -118,5 +118,17 @@
         "key": "Hpqu318",
         "expirydate": "16-09-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "45f73e29a752710f",
+        "key": "VIVI27",
+        "expirydate": "16-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "480486c5192d6d4f",
+        "key": "VIVI91",
+        "expirydate": "16-09-2025",
+        "Allowoffline": false
+    },
 ]
