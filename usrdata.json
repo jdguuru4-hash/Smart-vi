@@ -148,5 +148,17 @@
         "key": "HWPWHP",
         "expirydate": "14-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3355655f6a7cb253",
+        "key": "JWPQ",
+        "expirydate": "14-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "32fb6ff6ba3e4122",
+        "key": "AHKQ",
+        "expirydate": "14-09-2025",
+        "Allowoffline": false
     }
 ]
