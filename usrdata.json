@@ -184,5 +184,12 @@
         "key": "HQHap",
         "expirydate": "19-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "329af927efaee6a1",
+        "key": "GhhFjd",
+        "expirydate": "22-08-2025",
+        "Allowoffline": false
     }
+    
 ]
