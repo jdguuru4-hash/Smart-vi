@@ -172,5 +172,11 @@
         "key": "GHAQ18",
         "expirydate": "14-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9e7348da5357b51b",
+        "key": "HSISH01",
+        "expirydate": "14-09-2025",
+        "Allowoffline": false
     }
 ]
