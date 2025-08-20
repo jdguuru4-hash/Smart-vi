@@ -232,6 +232,13 @@
         "key": "PQUQ",
         "expirydate": "20-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "55e87dc904324de6",
+        "key": "HAIQ",
+        "expirydate": "20-09-2025",
+        "Allowoffline": false
     }
+    
     
 ]
