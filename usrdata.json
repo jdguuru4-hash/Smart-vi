@@ -238,6 +238,12 @@
         "key": "HAIQ",
         "expirydate": "20-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "67881c5a2496a6ae",
+        "key": "JALCT",
+        "expirydate": "20-09-2025",
+        "Allowoffline": false
     }
     
     
