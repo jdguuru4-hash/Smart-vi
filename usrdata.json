@@ -202,6 +202,12 @@
         "key": "TRUST",
         "expirydate": "20-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "186ab86eb29b2e99",
+        "key": "PQOXVN",
+        "expirydate": "20-09-2025",
+        "Allowoffline": false
     }
     
 ]
