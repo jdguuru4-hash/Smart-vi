@@ -190,6 +190,12 @@
         "key": "GhhFjd",
         "expirydate": "22-08-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "76ce6db906d65eff",
+        "key": "HALV",
+        "expirydate": "20-09-2025",
+        "Allowoffline": false
     }
     
 ]
