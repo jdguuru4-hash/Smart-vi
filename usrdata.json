@@ -226,5 +226,12 @@
         "key": "GGLPZ",
         "expirydate": "20-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3f33ce7d3700b4ed",
+        "key": "PQUQ",
+        "expirydate": "20-09-2025",
+        "Allowoffline": false
     }
+    
 ]
