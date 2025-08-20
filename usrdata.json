@@ -196,6 +196,12 @@
         "key": "HALV",
         "expirydate": "20-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5990a1978fd7c0fc",
+        "key": "TRUST",
+        "expirydate": "20-09-2025",
+        "Allowoffline": false
     }
     
 ]
