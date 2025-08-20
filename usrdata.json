@@ -241,6 +241,12 @@
     },
     {
         "device_id": "67881c5a2496a6ae",
+        "key": "JALCTdeletedHauwq",
+        "expirydate": "20-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "61fa37b9745b79bb",
         "key": "JALCT",
         "expirydate": "20-09-2025",
         "Allowoffline": false
