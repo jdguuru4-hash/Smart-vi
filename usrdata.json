@@ -265,13 +265,19 @@
     },
     {
         "device_id": "ca28f824063ecd46",
-        "key": "LKYU",
+        "key": "LKYhsU",
         "expirydate": "20-09-2025",
         "Allowoffline": false
     },
     {
         "device_id": "aebc63586d510e6f",
         "key": "AIWG",
+        "expirydate": "20-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "480486c5192d6d4f",
+        "key": "AGAKG",
         "expirydate": "20-09-2025",
         "Allowoffline": false
     }
