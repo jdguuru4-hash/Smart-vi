@@ -262,7 +262,13 @@
         "key": "LKYU",
         "expirydate": "20-09-2025",
         "Allowoffline": false
-        }
+        },
+    {
+        "device_id": "ca28f824063ecd46",
+        "key": "LKYU",
+        "expirydate": "20-09-2025",
+        "Allowoffline": false
+        },
     
     
 ]
