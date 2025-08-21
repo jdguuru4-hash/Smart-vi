@@ -256,19 +256,18 @@
         "key": "VLOP",
         "expirydate": "20-09-2025",
         "Allowoffline": false
-       },
-        {
+    },
+    {
         "device_id": "73a95fe6788c7ba7",
         "key": "LKYU",
         "expirydate": "20-09-2025",
         "Allowoffline": false
-        },
+    },
     {
         "device_id": "ca28f824063ecd46",
         "key": "LKYU",
         "expirydate": "20-09-2025",
         "Allowoffline": false
-        },
-    
+    }
     
 ]
