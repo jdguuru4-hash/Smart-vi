@@ -250,7 +250,13 @@
         "key": "JALCT",
         "expirydate": "20-09-2025",
         "Allowoffline": false
-    }
+    },
+       {
+        "device_id": "99b3b73185c03d16",
+        "key": "VLOP",
+        "expirydate": "20-09-2025",
+        "Allowoffline": false
+       }
     
     
 ]
