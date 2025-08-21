@@ -280,6 +280,29 @@
         "key": "AGAKG",
         "expirydate": "20-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8a6036dff5a0be51",
+        "key": "GAIP",
+        "expirydate": "20-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "5a6251737a4003f8",
+        "key": "YIQP",
+        "expirydate": "21-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "0c28c7c009ca9e66",
+        "key": "OHCG",
+        "expirydate": "21-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "94280b6d8fa63dd3",
+        "key": "FQLKG",
+        "expirydate": "21-09-2025",
+        "Allowoffline": false
     }
-    
 ]
