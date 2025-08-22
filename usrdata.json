@@ -304,5 +304,11 @@
         "key": "FQLKG",
         "expirydate": "21-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "bfdf652636f9ae4c",
+        "key": "VILD",
+        "expirydate": "21-09-2025",
+        "Allowoffline": false
     }
 ]
