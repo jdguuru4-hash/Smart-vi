@@ -310,5 +310,11 @@
         "key": "VILD",
         "expirydate": "21-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2d3195f9b68e19a7",
+        "key": "LQXCZ",
+        "expirydate": "21-09-2025",
+        "Allowoffline": false
     }
 ]
