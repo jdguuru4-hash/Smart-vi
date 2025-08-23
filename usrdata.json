@@ -316,5 +316,11 @@
         "key": "LQXCZ",
         "expirydate": "21-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "38da9336dbe17796",
+        "key": "LQAYO",
+        "expirydate": "21-09-2025",
+        "Allowoffline": false
     }
 ]
