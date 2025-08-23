@@ -320,19 +320,25 @@
     {
         "device_id": "38da9336dbe17796",
         "key": "LQAYO",
-        "expirydate": "21-09-2025",
+        "expirydate": "22-09-2025",
         "Allowoffline": false
     },
     {
         "device_id": "18f3c6d3c8594207",
         "key": "DRCSRK",
-        "expirydate": "21-09-2025",
+        "expirydate": "22-09-2025",
         "Allowoffline": false
     },
     {
         "device_id": "8385696b0afaef33",
         "key": "GIWDZ",
-        "expirydate": "21-09-2025",
+        "expirydate": "22-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "2bb15bd12585eabb",
+        "key": "HAQVX",
+        "expirydate": "22-09-2025",
         "Allowoffline": false
     }
 ]
