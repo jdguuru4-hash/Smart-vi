@@ -328,5 +328,11 @@
         "key": "DRCSRK",
         "expirydate": "21-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8385696b0afaef33",
+        "key": "GIWDZ",
+        "expirydate": "21-09-2025",
+        "Allowoffline": false
     }
 ]
