@@ -340,5 +340,12 @@
         "key": "HAQVX",
         "expirydate": "22-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7eb9ca9ef4492524",
+        "key": "TAEIO",
+        "expirydate": "22-09-2025",
+        "Allowoffline": false
     }
+    
 ]
