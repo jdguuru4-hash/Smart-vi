@@ -352,6 +352,12 @@
         "key": "UWIHQ",
         "expirydate": "22-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0f715628c3168cc7",
+        "key": "PQUSV",
+        "expirydate": "24-09-2025",
+        "Allowoffline": false
     }
     
 ]
