@@ -358,6 +358,12 @@
         "key": "PQUSV",
         "expirydate": "24-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e09255224779a2f2",
+        "key": "TBXAL",
+        "expirydate": "24-09-2025",
+        "Allowoffline": false
     }
     
 ]
