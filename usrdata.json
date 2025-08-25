@@ -388,5 +388,11 @@
         "key": "UWPSL",
         "expirydate": "25-09-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "ad033770a30333a4",
+        "key": "QFVAP",
+        "expirydate": "25-09-2025",
+        "Allowoffline": false
+    },
 ]
