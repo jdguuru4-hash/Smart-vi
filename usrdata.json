@@ -370,6 +370,12 @@
         "key": "YQIQ",
         "expirydate": "25-09-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "15f068c84ef3660f",
+        "key": "PQSBZ",
+        "expirydate": "24-09-2025",
+        "Allowoffline": false
+    },
     
 ]
