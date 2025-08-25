@@ -364,6 +364,12 @@
         "key": "TBXAL",
         "expirydate": "24-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6e8123dcb6d022dc",
+        "key": "YQIQ",
+        "expirydate": "25-09-2025",
+        "Allowoffline": false
     }
     
 ]
