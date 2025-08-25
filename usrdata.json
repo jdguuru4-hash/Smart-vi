@@ -395,4 +395,10 @@
         "expirydate": "25-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "666827c8c9553aba",
+        "key": "HJAIWGO",
+        "expirydate": "25-09-2025",
+        "Allowoffline": false
+    },
 ]
