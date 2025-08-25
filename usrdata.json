@@ -401,4 +401,10 @@
         "expirydate": "25-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "0bdf721b613650e6",
+        "key": "HAPQYQ",
+        "expirydate": "25-09-2025",
+        "Allowoffline": false
+    }
 ]
