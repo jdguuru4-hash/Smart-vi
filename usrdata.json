@@ -424,5 +424,11 @@
         "key": "UQPLP",
         "expirydate": "26-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "782aa16ddb3ad60b",
+        "key": "SJPQ",
+        "expirydate": "26-09-2025",
+        "Allowoffline": false
     }
 ]
