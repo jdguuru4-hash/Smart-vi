@@ -442,5 +442,11 @@
         "key": "QXANCZ",
         "expirydate": "26-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "52502864bf125222",
+        "key": "JQPANL",
+        "expirydate": "26-09-2025",
+        "Allowoffline": false
     }
 ]
