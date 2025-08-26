@@ -406,5 +406,11 @@
         "key": "HAPQYQ",
         "expirydate": "25-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "09ab0c42e3e334f3",
+        "key": "JSOWLQ",
+        "expirydate": "25-09-2025",
+        "Allowoffline": false
     }
 ]
