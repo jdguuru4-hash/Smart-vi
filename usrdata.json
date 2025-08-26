@@ -436,5 +436,11 @@
         "key": "XXAQL",
         "expirydate": "26-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5a752eae12d650a5",
+        "key": "QXANCZ",
+        "expirydate": "26-09-2025",
+        "Allowoffline": false
     }
 ]
