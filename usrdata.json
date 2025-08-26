@@ -448,5 +448,12 @@
         "key": "JQPANL",
         "expirydate": "26-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1e95023595b48c6e",
+        "key": "JAOAL",
+        "expirydate": "26-09-2025",
+        "Allowoffline": false
     }
+    
 ]
