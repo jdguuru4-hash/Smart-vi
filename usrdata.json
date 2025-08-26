@@ -466,6 +466,12 @@
         "key": "PQHQL",
         "expirydate": "26-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4e20f4b571c448ed",
+        "key": "HPQPL",
+        "expirydate": "26-09-2025",
+        "Allowoffline": false
     }
     
     
