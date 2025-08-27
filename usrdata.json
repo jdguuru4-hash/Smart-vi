@@ -490,6 +490,12 @@
         "key": "UQPSL",
         "expirydate": "26-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e181d883d148e3c6",
+        "key": "UPQLA",
+        "expirydate": "27-09-2025",
+        "Allowoffline": false
     }
     
     
