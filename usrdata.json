@@ -496,6 +496,12 @@
         "key": "UPQLA",
         "expirydate": "27-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "58e680c7e041e482",
+        "key": "UQPQLA",
+        "expirydate": "27-09-2025",
+        "Allowoffline": false
     }
     
     
