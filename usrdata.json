@@ -472,6 +472,12 @@
         "key": "HPQPL",
         "expirydate": "26-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4c36174621c129ce",
+        "key": "OQUAP",
+        "expirydate": "26-09-2025",
+        "Allowoffline": false
     }
     
     
