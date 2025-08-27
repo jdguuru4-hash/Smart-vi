@@ -484,6 +484,12 @@
         "key": "YQPZL",
         "expirydate": "26-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2fe8b217d39c9296",
+        "key": "UQPSL",
+        "expirydate": "26-09-2025",
+        "Allowoffline": false
     }
     
     
