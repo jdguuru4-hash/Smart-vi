@@ -508,7 +508,18 @@
         "key": "UPQIQQ",
         "expirydate": "27-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "751033c23659bfbc",
+        "key": "Ankit",
+        "expirydate": "27-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "aed90436d2c20df0",
+        "key": "Sumit",
+        "expirydate": "15-09-2025",
+        "Allowoffline": false
     }
-    
     
 ]
