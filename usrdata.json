@@ -520,6 +520,12 @@
         "key": "JQPQIQ",
         "expirydate": "20-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "daa509b696f1048e",
+        "key": "YAOQL",
+        "expirydate": "20-09-2025",
+        "Allowoffline": false
     }
     
 ]
