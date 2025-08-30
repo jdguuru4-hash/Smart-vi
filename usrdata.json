@@ -550,6 +550,12 @@
         "key": "BXZKZ",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "333e84bb8b9fd98e",
+        "key": "FHAVQF",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
     
 ]
