@@ -532,6 +532,12 @@
         "key": "BSLAQL",
         "expirydate": "10-09-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "d20ee55e1b07926d",
+        "key": "HWPWLQ",
+        "expirydate": "10-09-2025",
+        "Allowoffline": false
+    },
     
 ]
