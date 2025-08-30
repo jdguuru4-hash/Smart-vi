@@ -526,6 +526,12 @@
         "key": "YAOQL",
         "expirydate": "20-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3c83319ed06db9f7",
+        "key": "BSLAQL",
+        "expirydate": "10-09-2025",
+        "Allowoffline": false
     }
     
 ]
