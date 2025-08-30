@@ -542,7 +542,13 @@
     {
         "device_id": "ac406a5238e9af5b",
         "key": "JAPAHO",
-        "expirydate": "10-09-2025",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "6d5f06d6a363599d",
+        "key": "BXZKZ",
+        "expirydate": "28-09-2025",
         "Allowoffline": false
     }
     
