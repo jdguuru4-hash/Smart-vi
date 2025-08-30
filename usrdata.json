@@ -553,7 +553,13 @@
     },
     {
         "device_id": "333e84bb8b9fd98e",
-        "key": "FHAVQF",
+        "key": "FHAVQFDelet",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "a6d5b4907bf37187",
+        "key": "HSOJKS",
         "expirydate": "28-09-2025",
         "Allowoffline": false
     }
