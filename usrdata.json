@@ -616,6 +616,12 @@
         "key": "HCXAH",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+       {
+        "device_id": "0e5ad26d76912004",
+        "key": "HAOAHA",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
     
     
