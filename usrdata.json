@@ -578,31 +578,37 @@
     {
         "device_id": "4af34492c4ac6df4",
         "key": "GAOAI",
-        "expirydate": "01-09-2025",
+        "expirydate": "28-09-2025",
         "Allowoffline": false
     },
     {
         "device_id": "f71064aaa1031b42",
         "key": "VDMSL",
-        "expirydate": "01-09-2025",
+        "expirydate": "28-09-2025",
         "Allowoffline": false
     },
     {
         "device_id": "e27f26ee8f9d2046",
         "key": "JAOAQ",
-        "expirydate": "01-09-2025",
+        "expirydate": "28-09-2025",
         "Allowoffline": false
     },
     {
         "device_id": "05a57a6225fbbaed",
         "key": "HQPQLL",
-        "expirydate": "01-09-2025",
+        "expirydate": "28-09-2025",
         "Allowoffline": false
     },
     {
         "device_id": "d17a53e6e91f9980",
         "key": "HAOQL",
-        "expirydate": "01-09-2025",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "85f040a26fd444ef",
+        "key": "HAKAO",
+        "expirydate": "28-09-2025",
         "Allowoffline": false
     }
     
