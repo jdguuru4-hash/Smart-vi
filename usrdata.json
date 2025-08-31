@@ -574,6 +574,12 @@
         "key": "JAJHF",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4af34492c4ac6df4",
+        "key": "GAOAI",
+        "expirydate": "01-09-2025",
+        "Allowoffline": false
     }
     
 ]
