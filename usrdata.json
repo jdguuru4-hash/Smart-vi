@@ -580,6 +580,12 @@
         "key": "GAOAI",
         "expirydate": "01-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f71064aaa1031b42",
+        "key": "VDMSL",
+        "expirydate": "01-09-2025",
+        "Allowoffline": false
     }
     
 ]
