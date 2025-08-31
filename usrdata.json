@@ -628,8 +628,13 @@
         "key": "HHAOA",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5a6a537e86956550",
+        "key": "HAQKLA",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
-    
     
     
     
