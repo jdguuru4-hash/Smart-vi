@@ -634,6 +634,12 @@
         "key": "HAQKLA",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8fbae2626cac73ef",
+        "key": "HAOVAH",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
     
     
