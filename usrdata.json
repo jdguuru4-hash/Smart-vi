@@ -598,6 +598,12 @@
         "key": "HHALAQ",
         "expirydate": "01-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d17a53e6e91f9980",
+        "key": "HAOQL",
+        "expirydate": "01-09-2025",
+        "Allowoffline": false
     }
     
     
