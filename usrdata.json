@@ -610,6 +610,12 @@
         "key": "HAKAO",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6573f2939bf27fee",
+        "key": "HCXAH",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
     
     
