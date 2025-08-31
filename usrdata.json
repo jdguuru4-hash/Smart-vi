@@ -586,6 +586,13 @@
         "key": "VDMSL",
         "expirydate": "01-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e27f26ee8f9d2046",
+        "key": "JAOAQ",
+        "expirydate": "01-09-2025",
+        "Allowoffline": false
     }
+    
     
 ]
