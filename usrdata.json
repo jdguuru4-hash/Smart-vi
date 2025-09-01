@@ -658,7 +658,14 @@
         "key": "BAKAO",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1390175ee5fd80c3",
+        "key": "SAJL",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
+    
     
     
 ]
