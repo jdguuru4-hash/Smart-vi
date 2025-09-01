@@ -646,6 +646,12 @@
         "key": "JJSOS",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "74c303d112c9ba23",
+        "key": "DGAAG",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
     
     
