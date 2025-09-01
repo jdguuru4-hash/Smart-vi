@@ -682,8 +682,13 @@
         "key": "8QL",
         "expirydate": "01-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5ec440a7155d250b",
+        "key": "GKD68",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
     }
-    
     
     
     
