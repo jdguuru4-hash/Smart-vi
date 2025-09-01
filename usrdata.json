@@ -664,7 +664,14 @@
         "key": "SAJL",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5dcc7caf89997b0d",
+        "key": "HL5AK",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
+    
     
     
     
