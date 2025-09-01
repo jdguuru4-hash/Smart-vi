@@ -676,6 +676,12 @@
         "key": "6WE",
         "expirydate": "01-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "fa61f0f0f3a8005d",
+        "key": "8QL",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
     }
     
     
