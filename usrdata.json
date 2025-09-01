@@ -652,6 +652,12 @@
         "key": "DGAAG",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2fd267ca10a24a79",
+        "key": "BAKAO",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
     
     
