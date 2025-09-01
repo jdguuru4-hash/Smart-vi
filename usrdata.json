@@ -640,8 +640,13 @@
         "key": "HAOVAH",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "58f60bc6b745185e",
+        "key": "JJSOS",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
-    
     
     
 ]
