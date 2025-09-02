@@ -701,5 +701,10 @@
         "expirydate": "02-10-2025",
         "Allowoffline": false
     },
-    
+    {
+        "device_id": "20bb057b4f9d3682",
+        "key": "HAPA2",
+        "expirydate": "22-09-2025",
+        "Allowoffline": false
+    },
 ]
