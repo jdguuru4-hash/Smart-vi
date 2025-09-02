@@ -707,4 +707,16 @@
         "expirydate": "22-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "6487c7337c8f949e",
+        "key": "HQPQI2",
+        "expirydate": "22-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "8075902f5ec8386b",
+        "key": "JQPJ2",
+        "expirydate": "22-09-2025",
+        "Allowoffline": false
+    },
 ]
