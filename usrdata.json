@@ -725,4 +725,11 @@
         "expirydate": "22-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "48aca9d29b335169",
+        "key": "A2OAJ",
+        "expirydate": "03-10-2025",
+        "Allowoffline": false
+    },
+    
 ]
