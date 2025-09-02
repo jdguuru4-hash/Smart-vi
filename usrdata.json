@@ -754,6 +754,12 @@
         "key": "HAOA31",
         "expirydate": "02-10-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "55cccfb508f517e5",
+        "key": "HAOQ1",
+        "expirydate": "02-10-2025",
+        "Allowoffline": false
+    },
     
 ]
