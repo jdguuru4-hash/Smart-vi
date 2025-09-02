@@ -719,4 +719,10 @@
         "expirydate": "22-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "6487c7337c8f949e",
+        "key": "HAOAH2",
+        "expirydate": "22-09-2025",
+        "Allowoffline": false
+    },
 ]
