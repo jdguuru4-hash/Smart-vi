@@ -736,6 +736,12 @@
         "key": "HAOH2",
         "expirydate": "03-10-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "6e9bfbc4f226d8db",
+        "key": "BA57",
+        "expirydate": "02-10-2025",
+        "Allowoffline": false
+    },
     
 ]
