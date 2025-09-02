@@ -743,5 +743,11 @@
         "expirydate": "02-10-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "951ba7deca49e6fa",
+        "key": "JAB20",
+        "expirydate": "02-10-2025",
+        "Allowoffline": false
+    }
     
 ]
