@@ -731,5 +731,11 @@
         "expirydate": "03-10-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "f7a3a17e07096cd6",
+        "key": "HAOH2",
+        "expirydate": "03-10-2025",
+        "Allowoffline": false
+    }
     
 ]
