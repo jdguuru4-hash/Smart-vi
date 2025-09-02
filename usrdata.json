@@ -694,8 +694,12 @@
         "key": "LV4YX",
         "expirydate": "01-10-2025",
         "Allowoffline": false
-    }
-    
-    
+    },
+    {
+        "device_id": "40c6ff9138942cc6",
+        "key": "HWKO2",
+        "expirydate": "02-10-2025",
+        "Allowoffline": false
+    },
     
 ]
