@@ -815,4 +815,10 @@
         "expirydate": "03-10-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "45534593c1c6e768",
+        "key": "HAO7",
+        "expirydate": "03-10-2025",
+        "Allowoffline": false
+    }
 ]
