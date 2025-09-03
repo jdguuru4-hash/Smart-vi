@@ -803,5 +803,16 @@
         "expirydate": "03-10-2025",
         "Allowoffline": false
     },
-    
+    {
+        "device_id": "1e3d3afa545773e5",
+        "key": "HGDH75",
+        "expirydate": "03-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "386d76fb9ed612ea",
+        "key": "HAOI1",
+        "expirydate": "03-10-2025",
+        "Allowoffline": false
+    },
 ]
