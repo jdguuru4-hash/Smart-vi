@@ -790,6 +790,12 @@
         "key": "XZN6",
         "expirydate": "03-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "dc82bad98065088f",
+        "key": "JAOT6",
+        "expirydate": "03-10-2025",
+        "Allowoffline": false
     }
     
 ]
