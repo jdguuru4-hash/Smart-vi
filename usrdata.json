@@ -785,6 +785,11 @@
         "expirydate": "03-10-2025",
         "Allowoffline": false
     },
-    
+    {
+        "device_id": "49c2265ff7d90184",
+        "key": "XZN6",
+        "expirydate": "03-10-2025",
+        "Allowoffline": false
+    }
     
 ]
