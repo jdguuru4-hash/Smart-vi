@@ -779,6 +779,12 @@
         "expirydate": "02-10-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "c0fe84ae6cc1631e",
+        "key": "DEV7",
+        "expirydate": "03-10-2025",
+        "Allowoffline": false
+    },
     
     
 ]
